@@ -25,7 +25,7 @@ public func runPrediction(on frames: UnsafePointer<Int16>, interval ms: Int) -> 
 }
 ```
 
-## Installation
+## Installation (Swift Package Manager)
 
 To use libfvad_swift in your project, add it to your Package.swift file:
 
