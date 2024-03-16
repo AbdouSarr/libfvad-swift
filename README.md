@@ -20,7 +20,7 @@ public func runPrediction(on frames: UnsafePointer<Int16>, interval ms: Int) -> 
     case 1:
         return true // voice activity detected
     default:
-        return false
+        break
     }
 }
 ```
