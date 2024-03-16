@@ -31,7 +31,7 @@ To use libfvad_swift in your project, add it to your Package.swift file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/AbdouSarr/libfvad_swift", from: "1.0.1")
+    .package(url: "https://github.com/abdousarr/libfvad_swift", from: "1.0.1")
 ]
 ```
 
