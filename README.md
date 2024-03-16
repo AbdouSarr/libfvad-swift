@@ -4,7 +4,7 @@ libfvad_swift is an open-source Swift package that provides an easy-to-use iOS A
 
 forked and ported to SPM from the original implementation [here](https://github.com/dpirch/libfvad).
 
-## Example of usage
+## Usage Example
 
 ```swift
 import AVFoundation
