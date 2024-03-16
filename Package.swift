@@ -3,15 +3,15 @@
 import PackageDescription
 
 let package = Package(
-    name: "libfvad-swift",
+    name: "libfvad_swift",
     products: [
         .library(
-            name: "libfvad-swift",
-            targets: ["libfvad-swift"])
+            name: "libfvad_swift",
+            targets: ["libfvad_swift"])
     ],
     targets: [
         .target(
-            name: "libfvad-swift",
+            name: "libfvad_swift",
             path: ".",
             sources: [
                 "Sources/libfvad/common.h",
